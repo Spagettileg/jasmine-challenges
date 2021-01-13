@@ -1,18 +1,19 @@
+# Jasmine | function creation & tests 
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Jasmine testing tool used to support Test Driven Developemnt (TDD) when building out simple code logic.  
 
+Javascript functions were created in support of the following files:
 
-Hi there! Welcome to Cloud9 IDE!
+- Drink
+- FizzBuzz
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+## Demo
+Link to the [live](https://spagettileg.github.io/jasmine-challenges/) website hosted in GitHub Pages 
 
-Happy coding!
-The Cloud9 IDE team
+Link to [GitHub](https://github.com/Spagettileg/jasmine-challenges) Repo
+
+***
+
+<div align="center">
+<img src="assets/img/chinook.png">
+</div>
