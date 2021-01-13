@@ -13,9 +13,9 @@ describe("My whatCanIDrink function", function() {
             expect(whatCanIDrink).toBeDefined();
         });
         
-        it("should return drink toddy when called as whatCanIDrink(13)", function() {
+        it("should return soft drink when called as whatCanIDrink(13)", function() {
             var result = whatCanIDrink(13)
-            expect(result).toBe("Drink Toddy");
+            expect(result).toBe("Soft Drink");
         });
         
         
@@ -34,9 +34,9 @@ describe("My whatCanIDrink function", function() {
             expect(result).toBe("Drink Beer");
         }); 
         
-        it("should return drink whisky when called as whatCanIDrink(30)", function() {
+        it("should return drink sanatogen when called as whatCanIDrink(30)", function() {
             var result = whatCanIDrink(30)
-            expect(result).toBe("Drink Whisky");
+            expect(result).toBe("Drink Sanatogen");
         });
         
         it("should be unable to return a drink when called as whatCanIDrink(140)", function() {
