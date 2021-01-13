@@ -11,6 +11,6 @@ fizzBuzz = function(number) {
 		return "Buzz";
 	}	
 	else {
-		return number
+		return number;
 	}
 };
