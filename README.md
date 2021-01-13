@@ -15,5 +15,5 @@ Link to [GitHub](https://github.com/Spagettileg/jasmine-challenges) Repo
 ***
 
 <div align="center">
-<img src="assets/img/chinook.png">
+<img src="assets/img/flowers.png">
 </div>
