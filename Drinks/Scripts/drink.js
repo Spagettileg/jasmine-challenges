@@ -5,7 +5,7 @@ whatCanIDrink = function(age) {
 		return "Sorry. I can’t tell what drink because that age is incorrect!";
 	}
 	else if (age < 14) {
-		return "Drink Toddy";
+		return "Soft Drink";
 	}
 	else if (age < 18 && age >=14) {
 		return "Drink Coke";
@@ -14,10 +14,9 @@ whatCanIDrink = function(age) {
 		return "Drink Beer";
 	}
 	else if (age < 130) {
-		return "Drink Whisky";
+		return "Drink Sanatogen";
 	} 
 	else {
-		return "Sorry. I can’t tell what drink because that age is incorrect!"
+		return "Sorry. I can’t tell what drink because that age is incorrect!";
 	}
 };
-
