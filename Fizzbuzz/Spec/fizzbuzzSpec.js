@@ -28,9 +28,15 @@ describe("My fizzBuzz function", function() {
             var result = fizzBuzz(15) /* 15 can be divided by 5 or 3 (=Fizzbuzz) */ 
             expect(result).toBe("FizzBuzz");
         });
+        
         it("should return 2 when called as fizzBuzz(2)", function() {
             var result = fizzBuzz(2) /* Number 2 is returned as not divisible by 3 or 5 */
             expect(result).toBe(2);
+        });
+        
+        it("should return FizzBuzz when called as fizzBuzz(30)", function() {
+            var result = fizzBuzz(30) /* 30 can be divided by 3 or 5 (=FizzBuzz) */
+            expect(result).toBe("FizzBuzz");
         });
     });
 });
